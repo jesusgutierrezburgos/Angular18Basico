@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1730197621402,
+  "timestamp": 1730197842544,
   "index": "/Angular18Basico/browser/index.html",
   "assetGroups": [
     {
@@ -51,7 +51,7 @@
     "/Angular18Basico/browser/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/Angular18Basico/browser/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/Angular18Basico/browser/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/Angular18Basico/browser/index.html": "c7e959e3d3937ab65c201cb3056566649ca32a9e",
+    "/Angular18Basico/browser/index.html": "66af42cf4380173b1192b3aaddedd13ca6441125",
     "/Angular18Basico/browser/main-3O4E57NG.js": "49eaabb3185562453394cff739c4f93b800c4017",
     "/Angular18Basico/browser/manifest.webmanifest": "eea8ffd90cdd38317a73f491c83a52c019460587",
     "/Angular18Basico/browser/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
